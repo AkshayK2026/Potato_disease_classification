@@ -11,8 +11,7 @@ This repository contains code to train a convolutional neural network to classif
 2. Install Python packages
 
 ```
-pip3 install -r training/requirements.txt
-pip3 install -r api/requirements.txt
+
 
 ## Training the Model
 
