@@ -21,19 +21,6 @@ It uses **PyTorch** for model training, **FastAPI** for backend API, and **Strea
 
 ---
 
-## 📁 Project Structure
-Pytorch/
-│── backend/ # FastAPI backend
-│── frontend/ # Streamlit frontend
-│── model/ # Trained model files (.pth)
-│── src/ # Training & utility scripts
-│── data/ # Processed dataset
-│── PlantVillage/ # Original dataset
-│── env/ # Virtual environment
-│── split.py # Dataset splitting script
-│── requirements.txt # Project dependencies
-│── README.md
-│── .gitignore
 
 
 1.Create and Activate Virtual Environment
